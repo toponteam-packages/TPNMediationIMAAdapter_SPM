@@ -17,7 +17,7 @@ The TopOn Google Interactive Media Ads (IMA) mediation adapter for iOS, distribu
    ```
    https://github.com/toponteam-packages/TPNMediationIMAAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `3.27.4-2.2`).
+3. Select **Exact Version** and enter the target version (e.g. `32704.2.2`).
 4. Add the `TPNMediationIMAAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Google Interactive Media Ads (IMA) mediation adapter for iOS, distribu
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationIMAAdapter_SPM.git",
-        exact: "3.27.4-2.2"
+        exact: "32704.2.2"
     )
 ]
 ```
