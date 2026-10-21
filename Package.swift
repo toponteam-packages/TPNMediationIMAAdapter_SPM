@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "AnyThinkIMAAdapter",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkIMAAdapter/3.27.4.2.9/AnyThinkIMAAdapter-3.27.4.2.9.zip",
-            checksum: "e73eea1162347bf11058ce05aec8892bda7880b935a0193e537b72eca00ed6cc"
+            checksum: "7a6648e37eb776e612f84f1f49b8cb3c5ba9ccdc7abba87b8a3fab357c62846f"
         ),
         .target(
             name: "TPNMediationIMAAdapterTarget",
